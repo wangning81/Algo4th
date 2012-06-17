@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Algo4thChapter5</name>
+	<comment></comment>
+	<projects>
+		<project>Algo4thChapter1</project>
+		<project>Algo4thChapter2</project>
+		<project>Algo4thChapter3</project>
+		<project>Algo4thChapter4</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
